@@ -1,0 +1,14 @@
+1)   creating Git Repo using GitHub
+    
+    a)  create  a new Repository on GitHub (GitHub is remote Repository)
+    b)  copy the git repo url ( https://github.com/NaDhaG/Demo-1.git)
+    c)  In any directory open git bash and type:
+      git clone <git_url>(git clone https://github.com/NaDhaG/Demo-1.git)
+    d)  move into your repo directory
+		(cd <dirname>)
+
+
+configure git bash shell:
+
+git config --global user.email  "dharavathnareshnaresh18@gmail.com"
+git config --global user.name   "NaDhaG"
